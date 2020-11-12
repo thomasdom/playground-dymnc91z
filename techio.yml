@@ -1,4 +1,4 @@
 title: Write clean code
 plan:
-- title: Java Snippet
-  statement: statement.md
+- title: Meaningful names
+  statement: markdowns/1-meaningful-names/theory.md
