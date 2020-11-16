@@ -15,7 +15,7 @@ But once it is done, it **will** save you a lot of time by not trying to remembe
 
 Here is an example of poorly-named code:
 
-**Bad code:**
+**bad code:**
 
 ```java
 // Main.java
@@ -43,7 +43,7 @@ The snippet shown above is too **implicit** and must be rewritten to convey mean
 
 Just by giving these concepts names we can improve the code considerably.
 
-**Good code:**
+**good code:**
 
 ```java
 // Board.java
@@ -178,7 +178,7 @@ Cuteness in code often appears in the form of colloquialisms or slang. For examp
 
 Pick one word for one abstract concept and stick with it. A consistent lexicon is a great plus to the developers who must use your code.
 
-**Bad code:**
+**bad code:**
 
 ```java
 public Article fetchArticle();
@@ -186,7 +186,7 @@ public Author getAuthor();
 public Category retrieveCategory();
 ```
 
-**Good code:**
+**good code:**
 
 ```java
 public Article fetchArticle();
