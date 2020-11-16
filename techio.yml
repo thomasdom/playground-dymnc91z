@@ -2,3 +2,5 @@ title: Write clean code
 plan:
 - title: Meaningful names
   statement: markdowns/1-meaningful-names/theory.md
+- title: Functions
+  statement: markdowns/2-functions/theory.md
