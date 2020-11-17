@@ -1,7 +1,8 @@
 # Comments
 
 > “Don’t comment bad code—rewrite it.”
-> —Brian W. Kernighan and P. J. Plaugher1
+>
+> —Brian W. Kernighan and P. J. Plaugher
 
 ## Comments Do Not Make Up for Bad Code
 
