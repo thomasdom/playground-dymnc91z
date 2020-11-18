@@ -10,3 +10,5 @@ plan:
   statement: markdowns/4-formatting/theory.md
 - title: Error handling
   statement: markdowns/5-error-handling/theory.md
+- title: Unit tests
+  statement: markdowns/6-unit-tests/theory.md
