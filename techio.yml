@@ -8,3 +8,5 @@ plan:
   statement: markdowns/3-comments/theory.md
 - title: Formatting
   statement: markdowns/4-formatting/theory.md
+- title: Error handling
+  statement: markdowns/5-error-handling/theory.md
