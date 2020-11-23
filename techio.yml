@@ -36,4 +36,4 @@ plan:
 projects:
   names:
     root: /exercises/1-meaningful-names
-    runner: openjdk:11-jdk-slim
+    runner: techio/java-maven3-junit4-runner:1.1.4-java-8
