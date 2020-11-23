@@ -1,7 +1,12 @@
 title: Write clean code
 plan:
 - title: Meaningful names
-  statement: markdowns/1-meaningful-names/theory.md
+  description: Write delightful names so that your code conveys meaning
+  plan:
+  - title: Theory
+    statement: markdowns/1-meaningful-names/theory.md
+  - title: Exercises
+    statement: markdowns/1-meaningful-names/exercises.md
 - title: Functions
   statement: markdowns/2-functions/theory.md
 - title: Comments
