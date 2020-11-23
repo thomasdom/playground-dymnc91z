@@ -16,9 +16,7 @@ int xxx = 1605191958;
 
 ## Practice
 
-@[Refactor this code to comply with best practices:]({"stubs": ["src/main/java/com/thomasdomingues/vehicles/Vhcl.java"], "command": "TestVehicle#test", "project": "names"})
-
-@[Refactor this code to comply with best practices:]({"stubs": ["src/main/java/com/thomasdomingues/vehicles/TestVhcl.java"], "command": "TestVehicle#test", "project": "names"})
+@[Refactor this code to comply with best practices:]({"stubs": ["Vehicle.java"], "command": "TestVehicle#test", "project": "names"})
 
 **HINTS:**
 
