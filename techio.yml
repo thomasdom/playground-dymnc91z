@@ -17,3 +17,8 @@ plan:
   statement: markdowns/5-error-handling/theory.md
 - title: Unit tests
   statement: markdowns/6-unit-tests/theory.md
+
+projects:
+  names:
+    root: /exercises/1-meaningful-names
+    runner: java-maven3-junit4-runner:latest
