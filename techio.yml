@@ -32,8 +32,13 @@ plan:
   plan:
   - title: Theory
     statement: markdowns/6-unit-tests/theory.md
+  - title: Micro project
+    statement: markdowns/6-unit-tests/project.md
 
 projects:
   names:
     root: /exercises/1-meaningful-names
+    runner: openjdk:11-jdk-slim
+  primeprinter:
+    root: /exercises/99-prime-printer
     runner: openjdk:11-jdk-slim
