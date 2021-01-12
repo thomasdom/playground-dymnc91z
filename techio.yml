@@ -32,6 +32,7 @@ plan:
     statement: markdowns/6-unit-tests/theory.md
 - title: Practical work
   description: Exercises to practice on how to write clean code
+  plan:
   - title: Exercise 1
     statement: markdowns/1-meaningful-names/exercises.md
   - title: Exercise 2
