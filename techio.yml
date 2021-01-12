@@ -5,8 +5,6 @@ plan:
   plan:
   - title: Theory
     statement: markdowns/1-meaningful-names/theory.md
-  - title: Exercises
-    statement: markdowns/1-meaningful-names/exercises.md
 - title: Functions
   description: Learn how to create clean and readable functions
   plan:
@@ -32,7 +30,11 @@ plan:
   plan:
   - title: Theory
     statement: markdowns/6-unit-tests/theory.md
-  - title: Micro project
+- title: Practical work
+  description: Exercises to practice on how to write clean code
+  - title: Exercise 1
+    statement: markdowns/1-meaningful-names/exercises.md
+  - title: Exercise 2
     statement: markdowns/6-unit-tests/project.md
 
 projects:
